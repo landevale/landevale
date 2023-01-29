@@ -53,10 +53,12 @@
 
 Thanks for stopping by!
   
-  
-  <img src="https://i.imgur.com/KEf8ez7.png" />
+<img src="https://i.imgur.com/KEf8ez7.png" />
   
 
+## My Github History  
+  ![Snake animation](https://github.com/landevale/landevale/blob/output/github-contribution-grid-snake.svg)
+  
 <!--
 **landevale/landevale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
