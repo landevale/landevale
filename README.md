@@ -57,9 +57,9 @@ Thanks for stopping by!
   
 
 ## My Github History  
-  <div align="center">
+
   ![Snake animation](https://github.com/landevale/landevale/blob/output/github-contribution-grid-snake.svg)
-  </div>
+
 <!--
 **landevale/landevale** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
