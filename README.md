@@ -57,7 +57,7 @@ Thanks for stopping by!
   
 
 ## My Github History  
-
+... eaten by a snake! 🐍
   ![Snake animation](https://github.com/landevale/landevale/blob/output/github-contribution-grid-snake.svg)
 
 <!--
