@@ -7,7 +7,7 @@
 ## About Me
 
 - Hi, I'm Ambrose a software developer from Singapore.
-- I love building things that make a difference.
+- I love building things that make a difference, also expressing it through cooking and baking bread.
 - Previously a management trainee and operations executive in maritime.
 - Excited to bring diverse background and skills into the tech industry.
 
