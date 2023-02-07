@@ -8,6 +8,9 @@
 
 - Hi, I'm Ambrose a software developer from Singapore.
 - I love building things that make a difference.
+- Previously a management trainee and operations executive in maritime.
+- Excited to bring diverse background and skills into the tech industry.
+
 
 ## Skills
 
