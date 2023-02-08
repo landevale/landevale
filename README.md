@@ -23,7 +23,7 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
 | [Stronger](https://stronger.cyclic.app/) | A full-stack web app that helps users find exercises and track workouts. |
 | [General Assembly Classroom Display](https://ga-classroom-display.cyclic.app/) | A real-life classroom booking and display full-stack app. |
-| [Cornucopia]([https://cornucopia.vercel.app/) | A meal planner & recipe finder. |
+| [Cornucopia](https://cornucopia.vercel.app/) | A meal planner & recipe finder. |
 
 <!-- Project Section End -->
 
