@@ -12,6 +12,19 @@
 - Previously a management trainee and operations executive in maritime.
 - Excited to bring diverse background and skills into the tech industry.
 
+## Projects
+
+<!-- Project Section Start -->
+
+<!-- Keep the project table in the same format -->
+
+| Project                                                        | Description                                                                           |
+| ------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
+| [Stronger](https://github.com/landevale/stronger) | A full-stack web app that helps users find exercises and track workouts. |
+| [General Assembly Classroom Display](https://github.com/landevale/ga-classroom-display) | A real-life classroom booking and display full-stack app. |
+
+<!-- Project Section End -->
+
 
 ## Skills
 
@@ -31,23 +44,12 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" title="MongoDB" alt="MongoDB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" title="TailwindCSS" alt="TailwindCSS" width="40" height="40"/>&nbsp;
+  
+- 🌱 I’m currently learning **Data Structures & Algorithms, SQL, MySQL**
 
   
   
 <!-- Skills Section End -->
-
-## Projects
-
-<!-- Project Section Start -->
-
-<!-- Keep the project table in the same format -->
-
-| Project                                                        | Description                                                                           |
-| ------------------------------------------------------------ | ------------------------------------------------------------------------------------- |
-| [Stronger](https://github.com/landevale/stronger) | A full-stack web app that helps users find exercises and track workouts. |
-| [General Assembly Classroom Display](https://github.com/landevale/project3) | A real-life classroom booking and display full-stack app. |
-
-<!-- Project Section End -->
 
 ## Contact
 
