@@ -7,9 +7,10 @@
 ## About Me
 
 - Hi, I'm Ambrose a software developer from Singapore.
+- General Assembly Sofware Engineering Immersive graduate.
+- Previously a management trainee and operations executive in maritime.
 - I love building things that make a difference and bring joy.
 - It is also expressed through cooking and baking bread.
-- Previously a management trainee and operations executive in maritime.
 - Excited to bring diverse background and skills into the tech industry.
 
 ## Projects
